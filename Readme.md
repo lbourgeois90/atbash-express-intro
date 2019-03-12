@@ -1,5 +1,5 @@
 # Express Intro
-THis is an introduction to Express on Node.
+This is an introduction to Express on Node.
 
 Shows: 
 -Basic web server setup and file structure
